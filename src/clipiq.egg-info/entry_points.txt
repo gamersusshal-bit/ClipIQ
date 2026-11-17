@@ -1,0 +1,2 @@
+[console_scripts]
+clipiq = clipiq.cli:main
